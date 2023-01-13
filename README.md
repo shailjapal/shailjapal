@@ -1,9 +1,9 @@
+[![MasterHead](https://research.atu.edu.iq/wp-content/uploads/2021/01/cloud-computing-banner-1024x323.jpg)](https://vimugithub.io)
 <h1 align="center">Hi 👋, I'm Shailja Pal</h1>
 <h3 align="center">I am a Web Developer as a student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shailijapal&label=Profile%20views&color=0e75b6&style=flat" alt="shailijapal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shailijapal" alt="shailijapal" /></a> </p>
 
 - 🌱 I’m currently learning **HTML,CSS,JAVA,PHP.**
 
