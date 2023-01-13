@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shailjapal10099001@gmail.com**
 
-- 📄 Know about my experiences [https://shailjapal.github.io/myresume/](https://shailjapal.github.io/myresume/)
+- 📄 Know about my experiences **(https://shailjapal.github.io/myresume/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
